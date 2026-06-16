@@ -1,0 +1,11 @@
+path: D:/baidudownload/wind_turbine_blade/yolo_dataset
+train: images/train
+val: images/val
+
+names:
+  0: CoverCrack       # 覆盖裂纹
+  1: Wear             # 磨损
+  2: Corrosion        # 腐蚀
+  3: LightningMark    # 雷击痕迹
+  4: EdgeDamage       # 边缘破损
+  5: SurfaceCoating   # 表面覆盖物
